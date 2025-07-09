@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=F7AE2B&width=460&lines=Heya%2C+I+am+Lycan.+%F0%9F%91%8B;Loves+programming+%26+reverse+engineering.%E2%9A%99%EF%B8%8F;Pretty+gud+in+C%2B%2B+%26+Python+%F0%9F%90%8D;Hobbyist+Penetration+Tester+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Linux+is+superior.+%F0%9F%90%A7">
 </p>
+
 ---
 
 - 🔭 I’m currently working on **ParaHelper** (ft. Enterizz), **UnBrIcker** and **Lycan's IPSW Vault**.
