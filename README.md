@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lycan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?color=F7AE2B&lines=Heya%2C+I+am+Lycan.+;Loves+programming+and+reverse+engineering.;Pretty+gud+in+C%2B%2B+%26+Python+%F0%9F%90%8D;Hobbyist+Penetration+Tester+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Linux+is+superior.+%F0%9F%90%A7">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AE2B&width=435&lines=Heya%2C+I+am+Lycan.+;Loves+programming+and+reverse+engineering.;Pretty+gud+in+C%2B%2B+%26+Python+%F0%9F%90%8D;Hobbyist+Penetration+Tester+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Linux+is+superior.+%F0%9F%90%A7)](https://git.io/typing-svg">
 </p>
 
 ---
