@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ParaHelper** (ft. Enterizz), **LeUnBrIck** and **NanoLib** (ft. ZanuZoss).
 - 🧪 I tinker with Arduino and other hardware & software stuffs.
-- 🌱 Currently learning about **modding iPods**, **Linux** and **WebApps**
+- 🌱 Currently learning about **modding**, **Linux**, **Arduino** and **WebApps**
 - 📫 You can reach me via [Email](mailto:longdotailz@gmail.com) or Discord: `longdoz`.
 - ⚡ Fun fact: I made [LeUnBrIck](https://lycanld.github.io/LeUnBrIck/), the iPod Nano 6G/7G unbricker toolkit.
 - 💀 Fun fact 2: I'm in 8th Grade!
