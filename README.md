@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 I’m currently working on **ParaHelper** (ft. Enterizz), **UnBrIcker** and **NanoLib** (ft. ZanuZoss).
+- 🔭 I’m currently working on **ParaHelper** (ft. Enterizz), **LeUnBrIck** and **NanoLib** (ft. ZanuZoss).
 - 🧪 I tinker with Arduino and other hardware & software stuffs.
 - 🌱 Currently learning about **modding iPods**, **Linux** and **WebApps**
 - 📫 You can reach me via [Email](mailto:longdotailz@gmail.com) or Discord: `longdoz`.
