@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LycanLD</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=F7AE2B&width=460&lines=Heya%2C+I+am+LycanLD.+%F0%9F%91%8B;Reverse+Engineer+%7C+Maker+%7C+Code+Tinkerer;Always+learning+something+new!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=F7AE2B&width=460&lines=Heya%2C+I+am+LycanLD.+%F0%9F%91%8B;Reverse+Engineer+%7C+Maker+%7C+Code+Tinkerer;Always+learning+something+new!;Linux+is+superior+🐧">
 </p>
 
 ---
