@@ -9,7 +9,7 @@
 ### 🚀 Projects & Highlights
 
 - **[LeUnBrIck](https://lycanld.github.io/LeUnBrIck/):** iPod Nano 6/7 Generation unbricking toolkit for Windows and Linux!
-- **[ParaHelper]** (ft. Enterizz): Parental Control Software
+- **ParaHelper** (ft. Enterizz): Parental Control Software
 - **[NanoLib](https://nanolib.net)** (ft. ZanuZoss): iPod Nano 6/7G theme library.
 - **[SpamuBot](https://github.com/LycanLD/SpamuBot):** A playful bot for fun automated tasks.
 
