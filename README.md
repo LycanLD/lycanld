@@ -1,23 +1,56 @@
-<h1 align="center">Hi 👋, I'm Lycan</h1>
+<h1 align="center">Hi 👋, I'm LycanLD</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=F7AE2B&width=460&lines=Heya%2C+I+am+Lycan.+%F0%9F%91%8B;Loves+programming+%26+reverse+engineering.%E2%9A%99%EF%B8%8F;Pretty+gud+in+C%2B%2B+%26+Python+%F0%9F%90%8D;Hobbyist+Penetration+Tester+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Linux+is+superior.+%F0%9F%90%A7">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=F7AE2B&width=460&lines=Heya%2C+I+am+LycanLD.+%F0%9F%91%8B;Reverse+Engineer+%7C+Maker+%7C+Code+Tinkerer;Always+learning+something+new!">
 </p>
 
 ---
 
-- 🔭 I’m currently working on **ParaHelper** (ft. Enterizz), **LeUnBrIck** and **NanoLib** (ft. ZanuZoss).
-- 🧪 I tinker with Arduino and other hardware & software stuffs.
-- 🌱 Currently learning about **modding**, **Linux**, **Arduino** and **WebApps**
-- 📫 You can reach me via [Email](mailto:longdotailz@gmail.com) or Discord: `longdoz`.
-- ⚡ Fun fact: I made [LeUnBrIck](https://lycanld.github.io/LeUnBrIck/), the iPod Nano 6G/7G unbricker toolkit.
-- 💀 Fun fact 2: I'm in 8th Grade!
+### 🚀 Projects & Highlights
+
+- **[LeUnBrIck](https://lycanld.github.io/LeUnBrIck/):** iPod Nano 6/7 Generation unbricking toolkit for Windows and Linux!
+- **[ParaHelper]** (ft. Enterizz): Parental Control Software
+- **[NanoLib](https://nanolib.net)** (ft. ZanuZoss): iPod Nano 6/7G theme library.
+- **[SpamuBot](https://github.com/LycanLD/SpamuBot):** A playful bot for fun automated tasks.
+
+---
+
+### 🛠️ Skills & Tools
+
+- **Languages:** Python, C++, Bash, Batch, JavaScript, HTML/CSS
+- **Platforms:** Linux, Windows, WebApps
+- **Interests:** Reverse engineering, modding, hardware tinkering
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced modding (games & devices)
+- Linux internals
+- Arduino hardware
+- WebApp development
+
+---
+
+### 📬 Contact Me
+
+- **Email:** [longdotailz@gmail.com](mailto:longdotailz@gmail.com)
+- **Discord:** `longdoz`
+<!-- Add more socials if you want! -->
+
+---
+
+### ⚡ Fun Facts
+
+- I built [LeUnBrIck](https://lycanld.github.io/LeUnBrIck/) to help revive bricked iPods.
+- Proud tinkerer since elementary school — currently in **8th Grade**!
+- Always up for a new challenge or collaboration.
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lycanld&label=Profile+Views&color=blue" alt="Profile Views">
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
