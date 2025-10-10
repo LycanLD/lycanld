@@ -9,6 +9,7 @@
 ### 🚀 Projects & Highlights
 
 - **[LeUnBrIck](https://lycanld.github.io/LeUnBrIck/):** iPod Nano 6/7 Generation unbricking toolkit for Windows and Linux!
+- **[LDCrypt](https://lycanld.github.io/ldcrypt/):** Two-way openssl encryption web tool.
 - **[NanoLib](https://nanolib.net)** (ft. ZanuZoss): iPod Nano 6/7G theme library.
 - **[SpamuBot](https://github.com/LycanLD/SpamuBot):** A playful bot for fun automated tasks.
 
