@@ -9,7 +9,6 @@
 ### 🚀 Projects & Highlights
 
 - **[LeUnBrIck](https://lycanld.github.io/LeUnBrIck/):** iPod Nano 6/7 Generation unbricking toolkit for Windows and Linux!
-- **ParaHelper** (ft. Enterizz): Parental Control Software
 - **[NanoLib](https://nanolib.net)** (ft. ZanuZoss): iPod Nano 6/7G theme library.
 - **[SpamuBot](https://github.com/LycanLD/SpamuBot):** A playful bot for fun automated tasks.
 
@@ -26,8 +25,9 @@
 ### 🌱 Currently Learning
 
 - Advanced modding (games & devices)
+- Reverse engineering
+- Competitive Programming (For high school)
 - Linux internals
-- Arduino hardware
 - WebApp development
 
 ---
@@ -36,15 +36,14 @@
 
 - **Email:** [longdotailz@gmail.com](mailto:longdotailz@gmail.com)
 - **Discord:** `longdoz`
-<!-- Add more socials if you want! -->
 
 ---
 
 ### ⚡ Fun Facts
 
 - I built [LeUnBrIck](https://lycanld.github.io/LeUnBrIck/) to help revive bricked iPods.
-- Proud tinkerer since elementary school — currently in **8th Grade**!
-- Always up for a new challenge or collaboration.
+- Proud tinkerer — currently in ~~**8th Grade**~~!
+- Always up for a collaboration.
 
 ---
 
