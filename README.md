@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm LycanLD</h1>
+<h2 align="center">I go by <q>Lycan</q> (my nickname) or <q>Ruffery Thatcher</q> (my online alias)</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=F7AE2B&width=460&lines=Heya%2C+I+am+Lycan.+%F0%9F%91%8B;Reverse+Engineer+%7C+Maker+%7C+Code+Tinkerer;Always+learning+something+new!;Linux+is+superior+🐧">
@@ -9,7 +10,7 @@
 ### 🚀 Projects & Highlights
 
 - **[LeUnBrIck](https://lycanld.github.io/LeUnBrIck/):** iPod Nano 6/7 Generation unbricking toolkit for Windows and Linux!
-- **[LDCrypt](https://lycanld.github.io/ldcrypt/):** Two-way openssl encryption web tool.
+- **[LDCrypt](https://lycanld.github.io/ldcrypt/):** Two-way OpenSSL encryption web tool.
 - **[NanoLib](https://nanolib.net)** (ft. ZanuZoss): iPod Nano 6/7G theme library.
 - **[SpamuBot](https://github.com/LycanLD/SpamuBot):** A playful bot for fun automated tasks.
 
@@ -17,33 +18,33 @@
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** Python, C++, Bash, Batch, JavaScript, HTML/CSS
-- **Platforms:** Linux, Windows, WebApps
+- **Languages:** Python, C++, Bash, Batch, JavaScript, HTML/CSS  
+- **Platforms:** Linux, Windows, WebApps  
 - **Interests:** Reverse engineering, modding, hardware tinkering
 
 ---
 
 ### 🌱 Currently Learning
 
-- Advanced modding (games & devices)
-- Reverse engineering
-- Competitive Programming (For high school)
-- Linux internals
-- WebApp development
+- Advanced modding (games & devices)  
+- Reverse engineering  
+- Competitive Programming (for high school)  
+- Linux internals  
+- WebApp development  
 
 ---
 
 ### 📬 Contact Me
 
-- **Email:** [longdotailz@gmail.com](mailto:longdotailz@gmail.com)
+- **Email:** [longdotailz@gmail.com](mailto:longdotailz@gmail.com)  
 - **Discord:** `longdoz`
 
 ---
 
 ### ⚡ Fun Facts
 
-- I built [LeUnBrIck](https://lycanld.github.io/LeUnBrIck/) to help revive bricked iPods.
-- Proud tinkerer — currently in ~~**8th Grade**~~!
+- I built [LeUnBrIck](https://lycanld.github.io/LeUnBrIck/) to help revive bricked iPods.  
+- Proud tinkerer — currently in ~~**8th Grade**~~!  
 - Always up for a collaboration.
 
 ---
