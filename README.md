@@ -26,10 +26,10 @@
 
 ### 🌱 Currently Learning
 
-- Advanced modding (games & devices)  
+- Android modding (games and stuff)
 - Reverse engineering  
 - Competitive Programming (for high school)  
-- Linux internals  
+- Linux  
 - WebApp development  
 
 ---
