@@ -18,8 +18,8 @@
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** Python, C++, Bash, Batch, JavaScript, HTML/CSS  
-- **Platforms:** Linux, Windows, WebApps  
+- **Languages:** Python, C++, Bash, Batch, Java, Smali, Kotlin, HTML/CSS  
+- **Platforms:** Linux, Android, WebApps
 - **Interests:** Reverse engineering, modding, hardware tinkering
 
 ---
