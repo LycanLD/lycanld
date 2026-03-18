@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Projects & Highlights
+### Projects & Highlights
 
 - **[LeUnBrIck](https://lycanld.github.io/LeUnBrIck/):** iPod Nano 6/7 Generation unbricking toolkit for Windows and Linux!
 - **[LDCrypt](https://lycanld.github.io/ldcrypt/):** Two-way OpenSSL encryption web tool.
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 - **Languages:** Python, C++, Bash, Batch, Java, Smali, Kotlin, HTML/CSS  
 - **Platforms:** Linux, Android, WebApps
@@ -24,7 +24,7 @@
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 - Android modding (games and stuff)
 - Reverse engineering  
@@ -34,14 +34,14 @@
 
 ---
 
-### 📬 Contact Me
+### Contact Me
 
 - **Email:** [longdotailz@gmail.com](mailto:longdotailz@gmail.com)  
 - **Discord:** `longdoz`
 
 ---
 
-### ⚡ Fun Facts
+### Fun Facts
 
 - I built [LeUnBrIck](https://lycanld.github.io/LeUnBrIck/) to help revive bricked iPods.  
 - Proud tinkerer — currently in ~~**8th Grade**~~!  
