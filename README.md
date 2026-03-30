@@ -18,7 +18,7 @@
 
 ### Skills & Tools
 
-- **Languages:** Python, C++, Bash, Batch, Java, Smali, Kotlin, HTML/CSS  
+- **Languages:** Python, C++ (and ImGui), Bash, Java, Smali (a tiny bit), Kotlin, HTML/CSS  
 - **Platforms:** Linux, Android, WebApps
 - **Interests:** Reverse engineering, modding, hardware tinkering
 
@@ -44,8 +44,7 @@
 ### Fun Facts
 
 - I built [LeUnBrIck](https://lycanld.github.io/LeUnBrIck/) to help revive bricked iPods.  
-- Proud tinkerer — currently in ~~**8th Grade**~~!  
-- Always up for a collaboration.
+- Always up for a collab.
 
 ---
 
