@@ -10,7 +10,7 @@
 ### Projects & Highlights
 
 - **[LeUnBrIck](https://lycanld.github.io/LeUnBrIck/):** iPod Nano 6/7 Generation unbricking toolkit for Windows and Linux!
-- **[LDCrypt](https://lycanld.github.io/ldcrypt/):** Two-way OpenSSL encryption web tool.
+- **[RavenB++/RavenBCute]**: Contributor of RavenB++, a popular Minecraft untilty mod for 1.8.9 (originally worked on a fork named Raven BCute)
 - **[NanoLib](https://nanolib.net)** (ft. ZanuZoss): iPod Nano 6/7G theme library.
 - **[SpamuBot](https://github.com/LycanLD/SpamuBot):** A playful bot for fun automated tasks.
 
@@ -19,9 +19,8 @@
 ### Skills & Tools
 
 - **Languages:** Python, C++ (and ImGui), Bash, Java, Smali (a tiny bit), Kotlin, HTML/CSS  
-- **Platforms:** Linux, Android, WebApps
-- **Interests:** Reverse engineering, modding, hardware tinkering
-
+- **Platforms:** Linux, Android
+- **Interests:** Reverse engineering, modding
 ---
 
 ### Currently Learning
@@ -30,21 +29,14 @@
 - Reverse engineering  
 - Competitive Programming (for high school)  
 - Linux  
-- WebApp development  
+- Java/Minecraft mod development
 
 ---
 
 ### Contact Me
 
 - **Email:** [longdotailz@gmail.com](mailto:longdotailz@gmail.com)  
-- **Discord:** `longdoz`
 
----
-
-### Fun Facts
-
-- I built [LeUnBrIck](https://lycanld.github.io/LeUnBrIck/) to help revive bricked iPods.  
-- Always up for a collab.
 
 ---
 
