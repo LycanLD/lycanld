@@ -7,7 +7,8 @@
 ### Projects & Highlights
 
 - **[LeUnBrIck](https://lycanld.github.io/LeUnBrIck/):** iPod Nano 6/7 Generation unbricking toolkit for Windows and Linux!
-- **[RavenB++/RavenBCute]**: Contributor of RavenB++, a popular Minecraft untilty mod for 1.8.9 (originally worked on a fork named Raven BCute)
+- **[RavenB++/RavenBCute](https://github.com/K-ov/Raven)**: Contributor of RavenB++, a popular Minecraft untilty mod for 1.8.9 (originally worked on a fork named Raven BCute)
+- **[Arsenic](https://github.com/ArsenicClient/Arsenic)**: Contributor of Arsenic,  a 1.8.9 Minecraft cheat that specifically focuses on the Hypixel and Grim anti-cheat systems.
 - **[NanoLib](https://nanolib.net)** (ft. ZanuZoss): iPod Nano 6/7G theme library.
 - **[SpamuBot](https://github.com/LycanLD/SpamuBot):** A playful bot for fun automated tasks.
 
